@@ -1,7 +1,7 @@
-I am tyring to make an artificial decoder only task that a Transformer can learn, but somehow I am not managing to make it learn. 
+I am tyring to make artificial decoder only tasks that a Transformer can learn, but somehow I am not managing to make it learn. 
 
+* copy enc-dec works
 * sorted sequences (of random integers) did not work
-* sequences of i and 2i for random i did not work
-* next I will try this, the first token is a random int n > 1, then I repeat n times 1
+* the first token is a random int n > 1, then I repeat n times 1; doesn't seem to work :/
 
  
